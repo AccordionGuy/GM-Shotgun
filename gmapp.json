@@ -1,0 +1,13 @@
+{
+  "name":"Test 01",
+  "id":"94104153",
+  "version": "0.0.0",
+  "src": "src",
+  "dist": "dist",
+  "main": "index.html",
+  "icon": "Icon.png",
+  "developer": "Joey deVilla",
+  "category": "General",
+  "type": "RemoteLow",
+  "description": "Generated on 3/2/2017, 5:35:36 PM by ngi-sdk version "
+}

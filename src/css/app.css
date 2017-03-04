@@ -1,0 +1,53 @@
+/* Your CSS goes here */
+#main {
+  text-align: center;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+#close {
+  position: absolute;
+  top: 90px;
+  right: 0;
+  width: 64px;
+  height: 64px;
+  overflow: hidden;
+  z-index: 1000;
+}
+
+#close img {
+  width: 100%;
+}
+
+#passenger_count {
+	font-size: 4.0em;
+  font-weight: bold;
+	background-color: transparent;
+	text-align: center;
+	border-width: 0;
+	color: #000;
+}
+
+button {
+  font-size: 1.5em;
+}
+
+#down {
+  background: url(../images/minus.png) no-repeat;
+}
+
+#up {
+  background: url(../images/plus.png) no-repeat;
+}
+
+#results {
+  font-weight: bold;
+}
+
+@media (min-width: 801px) {
+  #close {
+    top: 104px;
+  }
+}
