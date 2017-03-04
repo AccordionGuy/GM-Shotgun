@@ -1,0 +1,7 @@
+# Shotgun!
+
+![Screenshot of Shotgun app in emulator](http://www.globalnerdy.com/wordpress/wp-content/uploads/2017/03/shotgun-screenshot.jpg)
+
+This app, written for the NGI (Next Generation Infotainment) platform in GM’s new cars, helps resolve a regular dispute: who gets to [ride shotgun](http://www.phrases.org.uk/meanings/riding-shotgun.html)? The user provides the number of non-driver passengers, and Shotgun randomly determines who gets to sit in the front passenger seat.
+
+As an added bonus, not only does this app determine who sits in the preferred passenger seat, but in the case where there are 5 people in the car, it also determines who has to sit in the dreaded rear middle seat.
