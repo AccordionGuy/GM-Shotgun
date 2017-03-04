@@ -1,13 +1,5 @@
 // Your code goes here
 
-var vinElem = document.getElementById('vin');
-gm.info.getVehicleConfiguration(function(data) {
-  //vinElem.innerHTML = gm.info.getVIN();
-  vinElem.innerHTML = randomIntInRange(2, 8);
-});
-
-
-
 function changePassengerCount(change) {
   var countDisplay = document.getElementById('passenger_count')
   var oldCount = countDisplay.value
